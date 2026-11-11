@@ -15,4 +15,4 @@ name, avg = grades.best_student(db)
 print(f"Лучший результат: {name} ({avg})")
 print()
 print("Оценок A:", grades.count_by_grade(db, "A"))
-print("Оценок D:", grades.count_by_grade(db, "D"))
+print("Оценок D:", grades.count_by_grade(db, "D"))# Проверка оценок
