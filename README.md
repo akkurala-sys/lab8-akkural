@@ -9,7 +9,7 @@
 - report.py — отчёт с помощью pandas
 - lab8_colab.ipynb — самостоятельное задание в Google Colab (модуль shop)
 
-Запуск:
+Запуск: run.bat
 
     python -m venv .venv
     python -m pip install -r requirements.txt
